@@ -1,7 +1,7 @@
 [
     {
         "id" : "0",
-        "image" : "dji",
+        "image" : "https://raw.githubusercontent.com/JasperLee404/resources/main/dji.jpg",
         "title" : "DJI Phantom 5",
         "sDescription" : "Training sessions ith the new DJI Phantom 5",
         "lDescription" : "DJI will be providing training sessions with their newest professional drone, the DJI Phantom 5. Limited times will be available for one-on-one sessions.",
@@ -9,7 +9,7 @@
     },
     {
         "id" : "1",
-        "image" : "robot",
+        "image" : "https://raw.githubusercontent.com/JasperLee404/resources/main/robot.jpg",
         "title" : "Robot Demonstrations",
         "sDescription" : "An opportunity to interact with a humanoid robot designed for customer interaction.",
         "lDescription" : "Meet Oscar, a llife-sized robot design to enable full human interaction in service environments. Oscar has a fully-integrated Large Language Model.",
@@ -17,7 +17,7 @@
     },
     {
         "id" : "2",
-        "image" : "robot2",
+        "image" : "https://raw.githubusercontent.com/JasperLee404/resources/main/robot2.jpg",
         "title" : "The future of Robotics",
         "sDescription" : "Experts will discuss the future of modern robotics in a closed sessions.",
         "lDescription" : "Three of China's leading experts on modern robotics will be available to discuss the future of robotics in a small round table sessions. Limited places.",
