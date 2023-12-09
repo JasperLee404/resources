@@ -22,5 +22,21 @@
         "sDescription" : "Experts will discuss the future of modern robotics in a closed sessions.",
         "lDescription" : "Three of China's leading experts on modern robotics will be available to discuss the future of robotics in a small round table sessions. Limited places.",
         "sessions" : ["Sunday 2:00pm", "Sunday 3:00pm", "Sunday 3:00pm", "Sunday 3:00pm", "Sunday 3:00pm", "Sunday 3:00pm", "Sunday 3:00pm", "Sunday 3:00pm"]
+    },
+    {
+        "id" : "3",
+        "image" : "https://raw.githubusercontent.com/JasperLee404/resources/main/LuxeedS7.jpg",
+        "title" : "Huawei Luxeed S7 Self-Driving Car Experience Event",
+        "sDescription" : "Huawei invites you to join the experience event of Luxeed S7 self-driving car, and feel the charm of future travel.",
+        "lDescription" : "Luxeed S7 is Huawei's self-driving car, which uses advanced artificial intelligence technology, and can achieve autonomous driving, intelligent obstacle avoidance, voice control, intelligent navigation and other functions. Luxeed S7 also has luxurious interior, comfortable seats, high-definition display, high-quality sound, providing you with the ultimate driving experience. In this experience event, you will have the opportunity to experience the various functions of Luxeed S7, communicate with Huawei's experts, and learn about the design concept, technical features, and market prospects of Luxeed S7. The places for this experience event are limited, welcome to sign up as soon as possible.",
+        "sessions" : ["Saturday 10:00am", "Saturday 11:00am", "Saturday 2:00pm", "Saturday 3:00pm", "Sunday 10:00am", "Sunday 11:00am", "Sunday 2:00pm", "Sunday 3:00pm"]
+    },
+    {
+        "id": "4",
+        "image": "https://raw.githubusercontent.com/JasperLee404/resources/main/mate60pro.jpg",
+        "title": "The Future of Smartphones",
+        "sDescription": "Huawei is set to unveil the groundbreaking Mate 60 Pro, the world’s first smartphone with satellite call support.",
+        "lDescription": "Join us for an exclusive launch event of the Huawei Mate 60 Pro, the pioneering smartphone capable of making and receiving calls without relying on ground network signals. Experience firsthand the remarkable design, powerful performance, and extraordinary camera features of this flagship device.",
+        "sessions": ["Monday 10:00am", "Monday 11:00am", "Monday 2:00pm", "Monday 3:00pm"]
     }
 ]
